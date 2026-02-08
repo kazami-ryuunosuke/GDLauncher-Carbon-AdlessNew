@@ -1008,7 +1008,7 @@ checksum = "f27ae1dd37df86211c42e150270f82743308803d90a6f6e6651cd730d5e1732f"
 [[package]]
 name = "daedalus"
 version = "0.1.21"
-source = "git+https://github.com/gorilla-devs/daedalus?rev=d3c9eed96e280312c5650ff0cf2b139393d65687#d3c9eed96e280312c5650ff0cf2b139393d65687"
+source = "git+https://github.com/gorilla-devs/daedalus?branch=master#3b383abdd6f315190a48ea603094fa63b45d004e"
 dependencies = [
  "backon",
  "bytes",
